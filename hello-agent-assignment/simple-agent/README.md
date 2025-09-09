@@ -16,4 +16,4 @@ Inside the `simple-agent` folder:
 ```uv run python main.py```
 
 ## 🖼️ Output Screenshot
-![Simple Agent Output](./simple-agent-screenshot.png)
+![Simple Agent Output](./simple-app-screenshot.png)
